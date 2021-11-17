@@ -1,0 +1,11 @@
+body {
+    background-color: #D8E6FF;
+}
+
+.container {
+    max-width: 60%!important;    
+}
+
+.file-upload {
+    margin: 5rem 0;
+}
